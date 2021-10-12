@@ -40,19 +40,19 @@ pastel-red: #db847c;
 */
 
 a {
-  color: #5c472d;
+  color: #006C65;
 }
 
 .color {
-  color: #5c472d;
+  color: #006C65;
 }
 
 .red-color {
-  color: #dd2725;
+  color: #006C65;
 }
 
 .label-color {
-  background: #dd2725 !important;
+  background: #006C65 !important;
 }
 
 .label-brown-color {
@@ -72,7 +72,7 @@ a {
 }
 
 .author-link {
-  color: #dd2725;
+  color: #006C65  ;
 }
 .author-link:hover {
   color: brown;
@@ -117,7 +117,7 @@ a {
 }
 
 a:hover {
-  color: brown;
+  color: '0076BA';
   /*color: #E03997;*/
   /*text-decoration: underline;*/
 }
