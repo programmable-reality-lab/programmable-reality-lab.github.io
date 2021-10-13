@@ -56,7 +56,7 @@ a {
 }
 
 .label-brown-color {
-  background: #5c472d !important;
+  background: #006C65 !important;
 }
 
 .highlight-color {
@@ -78,13 +78,14 @@ a {
   color: brown;
 }
 
-#publication a {
+/*#publication a {
   color: #dd2725;
 }
 
 #publication a:hover {
   color: brown;
 }
+*/
 
 .card-color-0, .card-color-1, .card-color-2, .card-color-3{
   background: #dd2725;
@@ -117,7 +118,7 @@ a {
 }
 
 a:hover {
-  color: '0076BA';
+  color: #A5673F;
   /*color: #E03997;*/
   /*text-decoration: underline;*/
 }
